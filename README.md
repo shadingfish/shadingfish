@@ -16,7 +16,7 @@
 
 <!--Intro end-->
 
-# 💻 Tech Stack
+# 👨‍💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 #### 🖥️ Backend & Mobile Development
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
