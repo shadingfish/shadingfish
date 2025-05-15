@@ -5,7 +5,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **C#, .NET**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to develop RPG game using Unity.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **Azure**
 
